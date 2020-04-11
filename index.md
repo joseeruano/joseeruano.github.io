@@ -21,6 +21,7 @@ Here's a link to understand more about the project: https://www.dropbox.com/s/w4
 ### Some uses for our cards 
 
 ```markdown
+
 Uses
 
 1. Perfect for giving to a special person
