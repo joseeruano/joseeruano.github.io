@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## What is this platform?
 
-You can use the [editor on GitHub](https://github.com/joseeruano/joseeruano.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why LeDon?
 
-### Markdown
+There has been a lot of times we can't decide what to give to a special person, so we end up giving things that the receiver doesn't want or need, making us more anxious about gifts. 
+We at LeDon believe that giving should be easy and fun, so we created a more accesible way of saying thank you to the people we love.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Also here's a little reason, courtesy of The Atlantic, about why people have a hard time giving gifts. We started LeDon cards to make a perfect solution for many reasons. 
+Our mission is to make giving a simpler, safer and better way of life.
+https://www.youtube.com/watch?v=Q9UUu2JBQB0 
+
+### Some uses for our cards 
 
 ```markdown
-Syntax highlighted code block
+Uses
 
-# Header 1
-## Header 2
-### Header 3
+1. Perfect for giving to a special person
 
-- Bulleted
-- List
+2. Customers can use the card as a budget-limiting tool for their expenses
 
-1. Numbered
-2. List
+3. Making paying more mobile friendly (without any risk) for customers
 
-**Bold** and _Italic_ and `Code` text
+4. Allowing access to special events
 
-[Link](url) and ![Image](src)
-```
+and many many more!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joseeruano/joseeruano.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Talk to me 'JoseeRuano' @ Twitter & Instagram
