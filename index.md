@@ -1,5 +1,5 @@
 ## What is this platform?
-
+LeDon is a platform that helps businesses create a better shopping experience for their clients. Vendors with LeDon can create personalized online gift cards and certificates that customers can use throughout their websites (yourdomain.com) and retail locations. LeDon works as an interface in the purchase experience for brands and retailers. Companies would be able to add to their catalogues of products a gift card designed specific for their brand and their stores.
 
 ## Why LeDon?
 
@@ -28,3 +28,7 @@ and many many more!
 ### Contact
 
 Talk to me 'JoseeRuano' @ Twitter & Instagram
+
+### Learn More
+
+Here's a link to understand more about the project: https://www.dropbox.com/s/w4jc0jeal02jvxx/%28PDF%29-%20LeDon%20Business%20Proposition.pdf?dl=0 
