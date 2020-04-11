@@ -10,6 +10,14 @@ Also here's a little reason, courtesy of The Atlantic, about why people have a h
 Our mission is to make giving a simpler, safer and better way of life.
 https://www.youtube.com/watch?v=Q9UUu2JBQB0 
 
+### Contact
+
+Talk to me 'JoseeRuano' @ Twitter & Instagram
+
+### Learn More
+
+Here's a link to understand more about the project: https://www.dropbox.com/s/w4jc0jeal02jvxx/%28PDF%29-%20LeDon%20Business%20Proposition.pdf?dl=0 
+
 ### Some uses for our cards 
 
 ```markdown
@@ -25,10 +33,3 @@ Uses
 
 and many many more!
 
-### Contact
-
-Talk to me 'JoseeRuano' @ Twitter & Instagram
-
-### Learn More
-
-Here's a link to understand more about the project: https://www.dropbox.com/s/w4jc0jeal02jvxx/%28PDF%29-%20LeDon%20Business%20Proposition.pdf?dl=0 
